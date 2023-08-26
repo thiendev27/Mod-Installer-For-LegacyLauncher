@@ -32,3 +32,6 @@ Instruction - Hướng dẫn:
 * Để xoá phiên bản, hãy chọn phiên bản trong hộp chọn Phiên bản, sau đó ấn 'Xoá' (đặt dưới nút 'Thêm') để xoá.
 * Để áp dụng mod, hãy chọn phiên bản bạn muốn cài và ấn 'Áp dụng' (đặt dưới nút 'Xoá'), mod sẽ tự động được cài vào launcher.
 * Thông tin về mod có sẵn, phiên bản sẽ hiển thị ở khung 'Đường dẫn: '.
+
+-- Đây là một dự án nhỏ :)) --
+thiendev <3 - 2023
