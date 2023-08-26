@@ -11,4 +11,5 @@ Hiện tại chỉ có tiếng Việt trong ứng dụng. Xin hãy thông cảm 
 
 Instruction - Hướng dẫn:
 * Trước hết bạn cần phải cung cấp đường dẫn của tệp TL.exe (thường là thư mục C:/[USER]/AppData/Roaming/.tlauncher/legacy/) bằng cách ấn vào Duyệt và cung cấp đường dẫn. Việc bắt buộc là chọn tệp TL.exe rồi ấn Open:
+
 ![image](https://github.com/thiendev27/Mod-Installer-For-LegacyLauncher/assets/111259837/2f7e6a0b-76d5-490e-8a2c-e76c041679a5)
